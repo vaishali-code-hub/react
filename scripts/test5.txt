@@ -1,2 +1,6 @@
 hello,
-learning git 
+learning git !!
+
+added line 1 
+
+added one more line
